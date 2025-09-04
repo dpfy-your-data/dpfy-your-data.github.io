@@ -30,29 +30,32 @@ h1 {
 .event-info {
     font-size: 0.88rem;
     color: #333;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.author-block {
+    margin-bottom: 12px;
 }
 
 .authors {
     font-size: 0.88rem;
     font-style: italic;
     color: #333;
-    margin-bottom: 8px;
+    margin: 0;
 }
 
 .affiliation {
     font-size: 0.88rem;
     color: #333;
     font-style: italic;
-    margin-top: 0;
-    margin-bottom: 8px;
+    margin: 0;
 }
 
 .venue-image {
     width: 100%;
     max-width: 480px;
     height: auto;
-    margin-top: 8px;
+    margin-top: 12px;
     border-radius: 6px;
 }
 
