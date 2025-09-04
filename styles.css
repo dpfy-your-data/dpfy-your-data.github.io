@@ -4,82 +4,82 @@ body {
     color: #333;
     background-color: white;
     margin: 0;
-    padding: 20px;
-    font-size: 18px;
+    padding: 16px;
+    font-size: 14.4px;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 640px;
     margin: 0 auto;
 }
 
 header {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 32px;
     border-bottom: 2px solid #d73027;
-    padding-bottom: 20px;
+    padding-bottom: 16px;
 }
 
 h1 {
-    font-size: 1.8rem;
+    font-size: 1.44rem;
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     color: #d73027;
 }
 
 .event-info {
-    font-size: 1.1rem;
+    font-size: 0.88rem;
     color: #333;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .authors {
-    font-size: 1.1rem;
+    font-size: 0.88rem;
     font-style: italic;
     color: #333;
 }
 
 .venue-image {
     width: 100%;
-    max-width: 600px;
+    max-width: 480px;
     height: auto;
-    margin-top: 20px;
-    border-radius: 8px;
+    margin-top: 16px;
+    border-radius: 6px;
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 24px;
 }
 
 h2 {
-    font-size: 1.2rem;
+    font-size: 0.96rem;
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     color: #d73027;
 }
 
 .new-image-inline {
-    height: 2rem;
-    margin-right: 6px;
+    height: 1.6rem;
+    margin-right: 5px;
     vertical-align: middle;
 }
 
 .abstract p {
-    font-size: 1.1rem;
+    font-size: 0.88rem;
     text-align: justify;
 }
 
 /* Resource Table */
 .resource-table {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 16px;
     border-collapse: collapse;
     border: 1px solid #333;
 }
 
 .resource-table td {
-    padding: 15px 10px;
-    font-size: 1rem;
+    padding: 12px 8px;
+    font-size: 0.8rem;
     vertical-align: top;
     width: 33.33%;
     border-right: 1px solid #333;
@@ -104,8 +104,8 @@ h2 {
 }
 
 .resource-subtitle {
-    margin-top: 8px;
-    font-size: 0.9rem;
+    margin-top: 6px;
+    font-size: 0.72rem;
     color: #333;
     font-style: italic;
 }
@@ -122,15 +122,15 @@ h2 {
 
 /* Survey Announcement */
 .survey-announcement {
-    margin-bottom: 30px;
-    padding: 20px;
+    margin-bottom: 24px;
+    padding: 16px;
     background: #f8f9fa;
-    border-left: 4px solid #d73027;
-    border-radius: 4px;
+    border-left: 3px solid #d73027;
+    border-radius: 3px;
 }
 
 .survey-announcement p {
-    font-size: 1.1rem;
+    font-size: 0.88rem;
     margin: 0;
     line-height: 1.6;
 }
@@ -157,7 +157,7 @@ h2 {
 
 /* Contact Section */
 .contact p {
-    font-size: 1.1rem;
+    font-size: 0.88rem;
 }
 
 .contact a {
@@ -176,19 +176,19 @@ h2 {
 
 @media (max-width: 600px) {
     body {
-        padding: 15px;
-        font-size: 18px;
+        padding: 12px;
+        font-size: 14.4px;
     }
     
     h1 {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     
     .resource-table td {
-        padding: 12px 8px;
+        padding: 10px 6px;
     }
     
     .resource-subtitle {
-        font-size: 0.8rem;
+        font-size: 0.64rem;
     }
 }
