@@ -1,0 +1,13 @@
+{
+  "name": "dpfy-your-data",
+  "version": "1.0.0",
+  "description": "ICML Tutorial: DP-fy your DATA - How to (and why) synthesize Differentially Private Synthetic Data",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["differential-privacy", "synthetic-data", "icml", "tutorial"],
+  "authors": ["Natalia Ponomareva", "Sergei Vassilvitskii", "Peter Kairouz", "Alex Bie"]
+}
